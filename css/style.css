@@ -1,0 +1,23 @@
+
+.jellyfish{
+    background-color: cornflowerblue;
+}
+
+.colorbox {
+    background-color: antiquewhite;
+}
+
+.span_box{
+    color: indigo;
+}
+
+#myarticle {
+    background-color: aquamarine;
+}
+
+#david {
+    border-style: solid ;
+    padding: 5px 20px ;
+    border-color: crimson;
+    
+}
