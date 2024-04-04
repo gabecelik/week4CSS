@@ -1,0 +1,36 @@
+
+h2:hover {
+    background-color: yellow;
+  }
+
+.colorbox {
+    background-color: pink;
+}
+
+.span_box{
+    color: indigo;
+}
+
+.jellyfish{
+    position: static;
+  left: 20px;
+}
+
+.boxy{
+    font:italic small-caps bold 12px/30px Georgia, serif;
+}
+
+#jerry{
+    font-style: oblique
+}
+
+#myarticle {
+    background-color: aquamarine;
+}
+
+#david {
+    border-style: solid ;
+    padding: 5px 20px ;
+    border-color: crimson;
+}
+
